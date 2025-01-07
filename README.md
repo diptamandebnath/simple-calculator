@@ -36,4 +36,4 @@ This project is a simple yet visually appealing calculator built using HTML, CSS
 
 ## License
 
-&copy; 2025 Your Name. All rights reserved.
+&copy; Created by Diptaman.
