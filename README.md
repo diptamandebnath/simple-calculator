@@ -32,7 +32,7 @@ This project is a simple yet visually appealing calculator built using HTML, CSS
 
 ## Preview
 
-![Calculator Preview](https://via.placeholder.com/300x200.png?text=Calculator+Preview)
+![Calculator Preview](https://raw.githubusercontent.com/diptamandebnath/simple-calculator/refs/heads/main/calculator%20home%20page.PNG?text=Calculator+Preview)
 
 ## License
 
