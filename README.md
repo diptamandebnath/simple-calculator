@@ -1,4 +1,4 @@
-# Gradient Calculator
+# Simple Calculator
 
 This project is a simple yet visually appealing calculator built using HTML, CSS, and JavaScript. It includes basic arithmetic operations and a toggleable dark mode. The background features smooth gradients for both light and dark themes.
 
